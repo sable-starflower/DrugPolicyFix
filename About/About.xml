@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Drug Policy Fix (Continued)</name>
   <packageId>Mlie.DrugPolicyFix</packageId>
@@ -20,11 +20,11 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2000335507
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -33,7 +33,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2000335507
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [h1]Overview[/h1] V1.1
 
@@ -42,7 +42,7 @@ Automatically fixes drug policies for new drug additions after the initial start
 
 [h1]Mod details[/h1]
 
-No more fiddling around having to update drug policies when you add new drugs or remove them from your game part way through a save game. This mod will do it &quot;automagically&quot; for you.
+No more fiddling around having to update drug policies when you add new drugs or remove them from your game part way through a save game. This mod will do it "automagically" for you.
 
 No more struggling to find the drug you want on a policy: they will now be sorted into alphabetical order.
 
@@ -60,7 +60,7 @@ Should be Multiplayer compatible.
 (CC BY-NC-SA 4.0)
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -71,4 +71,3 @@ Should be Multiplayer compatible.
 [/list]
 </description>
 </ModMetaData>
-

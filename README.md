@@ -1,23 +1,14 @@
 # DrugPolicyFix
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2000335507
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/DrugPolicyFix]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 # Overview
@@ -29,7 +20,7 @@ Automatically fixes drug policies for new drug additions after the initial start
 # Mod details
 
 
-No more fiddling around having to update drug policies when you add new drugs or remove them from your game part way through a save game. This mod will do it &quot;automagically&quot; for you.
+No more fiddling around having to update drug policies when you add new drugs or remove them from your game part way through a save game. This mod will do it "automagically" for you.
 
 No more struggling to find the drug you want on a policy: they will now be sorted into alphabetical order.
 
@@ -49,7 +40,7 @@ Should be Multiplayer compatible.
 (CC BY-NC-SA 4.0)
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
