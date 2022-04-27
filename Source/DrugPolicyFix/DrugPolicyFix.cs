@@ -47,12 +47,13 @@ namespace DrugPolicyFix
                             }
                         }
                     }
-                    defsRemovedCount = existingDrugPolicyEntries.Count - filteredDrugPolicyEntries.Count;
-                    if (defsRemovedCount > 0)
+
+                    if (existingDrugPolicyEntries.Count > filteredDrugPolicyEntries.Count)
                     {
+                        defsRemovedCount = existingDrugPolicyEntries.Count - filteredDrugPolicyEntries.Count;
                         policiesRemovedFromCount++;
+                        NonPublicFields.DrugPolicyEntryList(drugPolicy) = filteredDrugPolicyEntries;
                     }
-                    NonPublicFields.DrugPolicyEntryList(drugPolicy) = filteredDrugPolicyEntries;
 
                     // Find new drugs that aren't already in the policy to add
                     var drugDefsToAdd = new List<ThingDef>();
