@@ -6,6 +6,6 @@
   <incompatibleWith />
   <loadBefore />
   <loadAfter />
-  <manifestUri>https://raw.githubusercontent.com/sable-starflower/DrugPolicyFix/main/About/Manifest.xml</manifestUri>
+  <manifestUri>https://raw.githubusercontent.com/sable-starflower/DrugPolicyFix/null-releases/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/sable-starflower/DrugPolicyFix/releases</downloadUri>
 </Manifest>
